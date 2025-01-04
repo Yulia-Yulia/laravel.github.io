@@ -1,1 +1,1 @@
-# laravel.githab.io
+# laravel.github.io
